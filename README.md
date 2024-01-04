@@ -90,7 +90,7 @@ Deploying contract: MockUSDT
 - smart contract address : 0xAF9F8aC7EAED1fb3559535c1A0A319F9109a3a2e
 - block explorer url : https://sepolia.etherscan.io/tx/0x6ed91ff72bf6b994d7375bdfc2d8600785a303e566564a36abcabe9e24955a80
 
-### Transaction in the Alchemy Dapp 
+### Transaction in the Mock Lending Protocol Alchemy Dapp 
 ![Screenshot 2024-01-04 222631](https://github.com/codersharma2001/Mock-Lending-Protocol/assets/82099885/e5a6fd4d-c761-47c6-b1d0-e29f99ec5f6f)
 
 ### Cast
