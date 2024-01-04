@@ -48,11 +48,22 @@ The Mock Lending Protocol is a lending smart contract designed for Mock USDT ERC
 $ forge build
 ```
 
+Project involve 2 smart contracts deployments : 
+- Mock_Lending_Protocol.sol
+- MockUSDT.sol
+
 ### Testing the smart contracts
 
 ```shell
 $ forge test
 ```
+Tests Include : 
+
+- Deposit and Withdraw Liquidity Test
+- Adjust Interest Rate Test
+- Deposit Collateral and Borrow Test
+- Repay Interest Test
+- Withdraw Collateral Test
 
 ### Deploy the smart contract on testnet or mainnet
 
